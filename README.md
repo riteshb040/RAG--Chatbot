@@ -2,7 +2,7 @@
 
 A professional, local-first Retrieval-Augmented Generation (RAG) application built with **LangChain**, **Streamlit**, and **Ollama**. This project allows you to chat with your PDF documents privately on your own machine, with real-time performance tracking.
 
-![Project Screenshot]("images/Screenshot1.png")
+![Project Screenshot](images/Screenshot1.png)
 
 ## 🌟 Key Features
 
