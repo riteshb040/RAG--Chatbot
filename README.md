@@ -2,7 +2,7 @@
 
 A professional, local-first Retrieval-Augmented Generation (RAG) application built with **LangChain**, **Streamlit**, and **Ollama**. This project allows you to chat with your PDF documents privately on your own machine, with real-time performance tracking.
 
-![Project Screenshot](images/screenshot.png)
+![Project Screenshot]("images/Screenshot1.png")
 
 ## 🌟 Key Features
 
@@ -28,7 +28,7 @@ A professional, local-first Retrieval-Augmented Generation (RAG) application bui
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/local-rag.git
+    git clone https://github.com/riteshb040/RAG--Chatbot.git
     cd local-rag
     ```
 
@@ -59,4 +59,4 @@ streamlit run main.py
 4.  **Generation**: The retrieved context + the user's question are sent to `ChatOllama` (Llama 3) to generate a precise answer.
 
 ---
-*Created by [Ritesh Bavaliya](https://github.com/your-username) as a personal project to explore RAG and Local LLMs.*
+*Created by [Ritesh Bavaliya](https://github.com/riteshb040) as a personal project to explore RAG and Local LLMs.*
